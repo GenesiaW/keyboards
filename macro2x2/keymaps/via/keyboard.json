@@ -1,0 +1,20 @@
+{
+    "name": "macro2x2",
+    "vendorId": "0xFEED",
+    "productId": "0x0003",
+    "lighting": "none",
+    "matrix": {"rows": 2, "cols": 2},
+    "layouts": {
+        "keymap": [
+            {"name": "macro2x2"},
+            [
+            "0,0",
+            "0,1"
+            ],
+            [
+            "1,0",
+            "1,1"
+            ]
+        ]
+    }
+}

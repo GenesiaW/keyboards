@@ -1,0 +1,2 @@
+# QMK Config Files
+Config files for custom handwired 2x2,3x3 and 4x4 macropads using an Arduino Pro Micro. Requires the setup of the QMK environment to build. The config comes with VIA enabled and supports 11 layers (it has sufficient memory for up to 27 layers).
